@@ -1,0 +1,5 @@
+To open a file or create a new file: vi fileName
+1. Hit 'i' insert
+2. Hit 'Esc' for exit
+3. Hit ':wq' for saving and exit
+4. Hit ':q' for quite or ':q!' for quite without save
